@@ -1,0 +1,12 @@
+# KiCAD backup files
+*-backups/
+*.bak
+fp-info-cache
+
+# Build files
+*.elf
+*.hex
+
+# Reports and videos
+*.pdf
+*.mp4
